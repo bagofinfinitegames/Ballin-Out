@@ -1,5 +1,7 @@
 Player
   Move
+    Normalize speed
+	only take input when grounded
   Life
   Weapons?
   Skins?
