@@ -1,0 +1,27 @@
+Player
+  Move
+  Life
+  Weapons?
+  Skins?
+
+Enemy
+  Move
+  Life
+  Weapons
+
+Levels
+  Basic
+  Generate Random
+
+Pickups
+  Points
+  Life
+
+GameManager
+  Menu
+  Audio
+  Save
+
+Ads
+Analytics
+Purchasing (No Ads)
